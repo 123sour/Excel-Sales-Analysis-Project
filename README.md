@@ -21,9 +21,7 @@ This project analyzes sales data using Microsoft Excel to generate insights and 
 - Monthly sales trend analysis
 - High revenue categories highlighted
 
-## Project Files
-- sales_analysis.xlsx
-- dashboard.png
 
-## Preview
+
+
 
